@@ -96,6 +96,22 @@
 <div align="center">
 <table>
   <tr>
+  <td width="50%">
+  <h3 align="center">Air Traffic Control System</h3>
+  <div align="center">
+    <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Project 4"/></a>
+    <p>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>  
+      <a href="https://ssa-smt-visuallizer-by-awais.streamlit.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Demo-9E6EFE?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </p>
+    <p><strong>C++, OOP</strong> - Simulated flight scheduling and route management with collision detection algorithms and object-oriented architecture.</p>
+  </div>
+</td>
+
     <td width="50%">
       <h3 align="center">Internees Management System</h3>
       <div align="center">
@@ -116,7 +132,7 @@
       <div align="center">
         <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Project 2"/></a>
         <p>
-          <a href="#" target="_blank">
+          <a href="" target="_blank">
             <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
           </a>  
           <a href="#" target="_blank">
@@ -136,7 +152,7 @@
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
           </a>  
-          <a href="#" target="_blank">
+          <a href="https://muhammadawaisrafique.github.io/WeatherForecastApp/" target="_blank">
             <img src="https://img.shields.io/badge/Demo-9E6EFE?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
