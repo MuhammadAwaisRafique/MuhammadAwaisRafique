@@ -96,21 +96,24 @@
 <div align="center">
 <table>
   <tr>
-   <td width="50%">
-      <h3 align="center">Internees Management System</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Project 1"/></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-9E6EFE?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>MERN Stack</strong> - Role-based access control system with automated workflows for internship applications and approvals. Features responsive UI with modern design patterns.</p>
-      </div>
-    </td>
+
+ <td width="50%">
+  <h3 align="center">Code Verifier & Equivalence Checker</h3>
+  <div align="center">
+    <a href="https://ssa-smt-visuallizer-by-awais.streamlit.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Code Verifier & SMT Visualizer"/>
+    </a>
+    <p>
+      <a href="https://github.com/your-username/ssa-smt-visualizer" target="_blank">
+        <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>  
+      <a href="https://ssa-smt-visuallizer-by-awais.streamlit.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Demo-9E6EFE?style=for-the-badge&logo=streamlit&logoColor=white"/>
+      </a>
+    </p>
+    <p><strong>Python, Streamlit, Z3</strong> — Visual tool for checking program correctness and equivalence using SSA transformation, SMT solving, loop unrolling, and CFG visualization.</p>
+  </div>
+</td>
     <td width="50%">
       <h3 align="center">Currency Converter Web App</h3>
       <div align="center">
@@ -160,23 +163,22 @@
     </td>
   </tr>
   <tr>
-  <td width="50%">
-  <h3 align="center">Code Verifier & Equivalence Checker</h3>
-  <div align="center">
-    <a href="https://ssa-smt-visuallizer-by-awais.streamlit.app/" target="_blank">
-      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Code Verifier & SMT Visualizer"/>
-    </a>
-    <p>
-      <a href="https://github.com/your-username/ssa-smt-visualizer" target="_blank">
-        <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>  
-      <a href="https://ssa-smt-visuallizer-by-awais.streamlit.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo-9E6EFE?style=for-the-badge&logo=streamlit&logoColor=white"/>
-      </a>
-    </p>
-    <p><strong>Python, Streamlit, Z3</strong> — Visual tool for checking program correctness and equivalence using SSA transformation, SMT solving, loop unrolling, and CFG visualization.</p>
-  </div>
-</td>
+ 
+   <td width="50%">
+      <h3 align="center">Internees Management System</h3>
+      <div align="center">
+        <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Project 1"/></a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-9E6EFE?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>MERN Stack</strong> - Role-based access control system with automated workflows for internship applications and approvals. Features responsive UI with modern design patterns.</p>
+      </div>
+    </td>
 
   </tr>
 </table>
