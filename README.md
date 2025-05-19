@@ -96,23 +96,7 @@
 <div align="center">
 <table>
   <tr>
-  <td width="50%">
-  <h3 align="center">Air Traffic Control System</h3>
-  <div align="center">
-    <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Project 4"/></a>
-    <p>
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>  
-      <a href="https://ssa-smt-visuallizer-by-awais.streamlit.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo-9E6EFE?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </p>
-    <p><strong>C++, OOP</strong> - Simulated flight scheduling and route management with collision detection algorithms and object-oriented architecture.</p>
-  </div>
-</td>
-
-    <td width="50%">
+   <td width="50%">
       <h3 align="center">Internees Management System</h3>
       <div align="center">
         <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Project 1"/></a>
@@ -174,6 +158,26 @@
         <p><strong>C++, OOP</strong> - Simulated flight scheduling and route management with collision detection algorithms and object-oriented architecture.</p>
       </div>
     </td>
+  </tr>
+  <tr>
+  <td width="50%">
+  <h3 align="center">Code Verifier & Equivalence Checker</h3>
+  <div align="center">
+    <a href="https://ssa-smt-visuallizer-by-awais.streamlit.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Code Verifier & SMT Visualizer"/>
+    </a>
+    <p>
+      <a href="https://github.com/your-username/ssa-smt-visualizer" target="_blank">
+        <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>  
+      <a href="https://ssa-smt-visuallizer-by-awais.streamlit.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Demo-9E6EFE?style=for-the-badge&logo=streamlit&logoColor=white"/>
+      </a>
+    </p>
+    <p><strong>Python, Streamlit, Z3</strong> — Visual tool for checking program correctness and equivalence using SSA transformation, SMT solving, loop unrolling, and CFG visualization.</p>
+  </div>
+</td>
+
   </tr>
 </table>
 </div>
