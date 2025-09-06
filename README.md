@@ -16,7 +16,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
-- 🎓 Currently pursuing **BS Software Engineering** at **FAST-NUCES Islamabad** (6th Semester)
+- 🎓 Currently pursuing **BS Software Engineering** at **FAST-NUCES Islamabad** (7th Semester)
 - 💻 Passionate about developing **scalable applications**, **backend APIs**, and **frontend experiences**
 - 🌱 Always learning and exploring new technologies
 - 🚀 Enthusiastic about **clean code** and **software architecture**
