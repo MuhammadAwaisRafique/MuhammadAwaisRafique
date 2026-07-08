@@ -214,11 +214,21 @@ Visual program-correctness checker using SSA transformation, SMT solving, loop u
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAwaisRafique&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=FF2E92&point=00F0FF&area=true&area_color=A78BFA" width="100%" alt="activity graph"/>
 </div>
 
+### 🔥 Contribution Heatmap
+
+<div align="center">
+<img src="https://ghchart.rshah.org/A78BFA/MuhammadAwaisRafique" width="100%" alt="contribution heatmap"/>
+</div>
+
+> ✅ *This one works instantly — no workflow or token needed, just your username.*
+
 ### 🧊 3D Contribution Calendar
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MuhammadAwaisRafique/MuhammadAwaisRafique/output/github-contribution-grid-snake-dark.svg" width="100%" alt="3D contribution animation"/>
 </div>
+
+> ⏳ *This one only appears after the one-time workflow setup below runs for the first time — it's normal for it to look broken until then.*
 
 > 🔧 *Powered by [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — add the workflow below to your repo and this renders as a rotating 3D bar chart of your real commit history.*
 
@@ -277,7 +287,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Once these run once, the image links above will populate automatically. Also go to **Settings → Actions → General** in that repo and make sure "Workflow permissions" is set to **Read and write permissions**, otherwise the commit step will fail silently. 🎉
+Once these run once, the image links above will populate automatically.
+
+**No manual token needed** — `${{ secrets.GITHUB_TOKEN }}` is created and injected automatically by GitHub Actions for every run in your repo, so you don't create or paste any secret yourself. The only thing you must do by hand is: go to **Settings → Actions → General** in that repo and set "Workflow permissions" to **Read and write permissions** (it defaults to read-only, which is why the commit step fails silently for most people). Then run each workflow once manually from the **Actions** tab (`Run workflow` button) instead of waiting for the daily cron. 🎉
 
 </details>
 
@@ -298,6 +310,12 @@ Once these run once, the image links above will populate automatically. Also go 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
 <div align="center">
+
+### 💭 Quote of the Moment
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
+
+<br/><br/>
 
 ### 📡 Let's Build Something
 
