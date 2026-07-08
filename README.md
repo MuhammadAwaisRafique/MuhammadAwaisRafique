@@ -195,13 +195,23 @@ Visual program-correctness checker using SSA transformation, SMT solving, loop u
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MuhammadAwaisRafique&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff2e92&icon_color=00f0ff&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAwaisRafique&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff2e92&text_color=ffffff"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MuhammadAwaisRafique&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff2e92&icon_color=00f0ff&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAwaisRafique&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff2e92&text_color=ffffff&cache_seconds=1800"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAwaisRafique&theme=nightowl&hide_border=true&background=0D1117&stroke=A78BFA&ring=FF2E92&fire=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=FFFFFF" alt="GitHub Streak"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MuhammadAwaisRafique&theme=nightowl&hide_border=true&background=0D1117&stroke=A78BFA&ring=FF2E92&fire=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=FFFFFF" alt="GitHub Streak"/>
+
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAwaisRafique&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="trophies"/>
 
+</div>
+
+### 📊 Contribution Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAwaisRafique&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=FF2E92&point=00F0FF&area=true&area_color=A78BFA" width="100%" alt="activity graph"/>
 </div>
 
 ### 🧊 3D Contribution Calendar
@@ -267,7 +277,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Once these run once, the two image links above will populate automatically. 🎉
+Once these run once, the image links above will populate automatically. Also go to **Settings → Actions → General** in that repo and make sure "Workflow permissions" is set to **Read and write permissions**, otherwise the commit step will fail silently. 🎉
 
 </details>
 
