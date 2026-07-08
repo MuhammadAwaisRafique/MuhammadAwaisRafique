@@ -228,70 +228,7 @@ Visual program-correctness checker using SSA transformation, SMT solving, loop u
 <img src="https://raw.githubusercontent.com/MuhammadAwaisRafique/MuhammadAwaisRafique/output/github-contribution-grid-snake-dark.svg" width="100%" alt="3D contribution animation"/>
 </div>
 
-> ⏳ *This one only appears after the one-time workflow setup below runs for the first time — it's normal for it to look broken until then.*
 
-> 🔧 *Powered by [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — add the workflow below to your repo and this renders as a rotating 3D bar chart of your real commit history.*
-
-<details>
-<summary>⚙️ One-time setup: enable the animated snake + 3D graph (click to expand)</summary>
-
-Create `.github/workflows/profile-3d-contrib.yml` in your `MuhammadAwaisRafique/MuhammadAwaisRafique` repo:
-
-```yaml
-name: 3D Profile Contribution
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: MuhammadAwaisRafique
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          branch: output
-          commit_message: "Update 3D contribution graph"
-          file_pattern: "profile-3d-contrib/*.svg"
-```
-
-And for the **snake animation**, add `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: MuhammadAwaisRafique
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once these run once, the image links above will populate automatically.
-
-**No manual token needed** — `${{ secrets.GITHUB_TOKEN }}` is created and injected automatically by GitHub Actions for every run in your repo, so you don't create or paste any secret yourself. The only thing you must do by hand is: go to **Settings → Actions → General** in that repo and set "Workflow permissions" to **Read and write permissions** (it defaults to read-only, which is why the commit step fails silently for most people). Then run each workflow once manually from the **Actions** tab (`Run workflow` button) instead of waiting for the daily cron. 🎉
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
