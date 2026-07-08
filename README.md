@@ -1,208 +1,301 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9E6EFE&height=200&section=header&text=Muhammad%20Awais%20Rafique&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20MERN%20Stack%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Muhammad%20Awais%20Rafique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Crafting%20Full-Stack%20%2B%20Agentic%20AI%20Systems&descAlignY=52&descSize=20&descAlign=50" width="100%"/>
+
+<a href="https://www.linkedin.com/in/awais12/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+<a href="mailto:awaiss.rafique@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF2E92" /></a>
+<a href="https://github.com/MuhammadAwaisRafique"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Software+Engineer+%7C+MERN+Stack+Developer;Building+Agentic+AI+%2B+DevOps+Automation;LangChain+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+React;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=MuhammadAwaisRafique&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" />
+
 </div>
 
-<p align="center">
-  <a href="mailto:awaiss.rafique@gmail.com"><img src="https://img.shields.io/badge/Email-6E48AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/awais12/"><img src="https://img.shields.io/badge/LinkedIn-6E48AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/MuhammadAwaisRafique"><img src="https://img.shields.io/badge/GitHub-6E48AA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAwaisRafique&color=6E48AA&style=for-the-badge" alt="Profile Views" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
-## 💫 About Me
+## ⚡ &nbsp;About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
-
-- 🎓 **BS Software Engineering**, FAST-NUCES Islamabad (2026)
-- 💻 Full Stack Software Engineer specializing in the **MERN Stack** — scalable web apps, REST APIs, cloud-deployed systems
-- 🤖 Building **agentic AI / LLM-powered systems** with LangChain & LangGraph, and automated **MLOps pipelines**
-- ☁️ AWS Cloud Practitioner (AWS Cloud Quest) — comfortable with cloud deployment & DevOps automation
-- 🌱 Currently deepening my work at the intersection of **DevOps + AI agents**
-- 🏏 Off-screen: tech competitions & cricket
-
-<br clear="right"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadAwaisRafique&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9E6EFE&icon_color=9E6EFE&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAwaisRafique&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9E6EFE&text_color=FFFFFF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAwaisRafique&theme=tokyonight&hide_border=true&background=0D1117&stroke=9E6EFE&ring=9E6EFE&fire=9E6EFE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9E6EFE&sideLabels=9E6EFE&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-## 🛠️ Technical Skills
-
-<details open>
-<summary><b>Languages</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-6E48AA?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-774BBE?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-804FD1?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-8953E5?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-9257F8?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-9E6EFE?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-6E48AA?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-774BBE?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-</details>
-
-<details open>
-<summary><b>MERN & Web</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-6E48AA?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-774BBE?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-804FD1?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-8953E5?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-9257F8?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" />
-</p>
-</details>
-
-<details open>
-<summary><b>AI / ML & Agentic Systems</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-6E48AA?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-774BBE?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/FastAPI-804FD1?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MLflow-8953E5?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-9257F8?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/DVC-9E6EFE?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
-</p>
-</details>
-
-<details open>
-<summary><b>DevOps & Cloud</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-6E48AA?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-774BBE?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-804FD1?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-8953E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Jenkins-9257F8?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Nginx-9E6EFE?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Cloudflare-6E48AA?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Vercel-774BBE?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Prometheus-804FD1?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-8953E5?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-</p>
-</details>
-
-<details open>
-<summary><b>Databases & Tools</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-6E48AA?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-774BBE?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-804FD1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Supabase-8953E5?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Git-9257F8?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-9E6EFE?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jira-6E48AA?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Figma-774BBE?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-</details>
-
-## 💼 Professional Experience
-
-**Solution Engineering Intern | Apimatic.io (NSTP, NUST)** — *Nov 2025 – Feb 2026*
-- Built and deployed API Developer Experience Portals for enterprise clients including JPMorgan, Shell, PayQuicker, PayPal, and Vodafone
-- Automated portal CI/CD via GitHub Actions and Cloudflare; validated SDKs across Java, Python, TypeScript, Go, and C#
-- Collaborated cross-functionally in an Agile/Scrum environment, participating in sprint planning and code reviews
-
-**Full Stack Engineer (MERN) | YourMunshi, Islamabad** — *Aug 2025 – Oct 2025*
-- Developed and maintained full-stack features using React.js, Node.js, Express.js, and MongoDB, including REST API design and integration
-- Built responsive, user-friendly interfaces and optimized backend services for performance and scalability
-- Deployed and maintained **cloud infrastructure** to improve application reliability and resource efficiency
-
-**Software Engineering Intern | Systems Limited, Islamabad** — *June 2024 – Aug 2024*
-- Hands-on experience with .NET applications and API integration in an enterprise environment
-- Contributed to application logic and database management across relational and NoSQL databases
-
-## 🚀 Featured Projects
-
-<div align="center">
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 DevHex — Agentic AI DevOps Platform</h3>
-      <div align="center">
-        <p><strong>Python, LangChain, LangGraph, FastAPI, React.js, Docker, AWS/Azure</strong></p>
-        <p>Full-stack agentic platform (FYP) enabling <strong>natural-language CI/CD execution</strong>, multi-cloud orchestration, and real-time VM command execution with intelligent rollback recovery — eliminating manual deployment bottlenecks.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📈 MLOps Real-Time Predictive System</h3>
-      <div align="center">
-        <p><strong>Python, Apache Airflow, MLflow, DVC, FastAPI, Docker, Prometheus, Grafana</strong></p>
-        <p>End-to-end automated MLOps pipeline for live exchange-rate prediction — daily ingestion, fail-fast quality gates, time-series feature engineering, and a Dockerized monitoring stack for real-time drift detection and p95 latency alerting.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">☸️ Local Kubernetes Deployment of MERN App</h3>
-      <div align="center">
-        <p><strong>MERN Stack, Kubernetes, Docker, GitHub Actions, Minikube</strong></p>
-        <p>Containerized MERN application deployed on a single-node Kubernetes cluster with automated CI/CD pipelines and Docker Hub integration for seamless image updates.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧩 Explain.ai Chrome Extension</h3>
-      <div align="center">
-        <p><strong>JavaScript, DOM API, MERN Stack</strong></p>
-        <p>Chrome extension providing instant hover-explanations for selected text — boosted productivity by 40% by removing the need for external navigation.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎓 Internees Management System</h3>
-      <div align="center">
-        <p><strong>MERN Stack</strong></p>
-        <p>Role-based access control system automating internship applications and approvals, with a responsive UI following modern design patterns.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔍 Code Verifier & SMT Visualizer</h3>
-      <div align="center">
-        <p>
-          <a href="https://ssa-smt-visuallizer-by-awais.streamlit.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-9E6EFE?style=for-the-badge&logo=streamlit&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Python, Streamlit, Z3</strong></p>
-        <p>Visual tool for checking program correctness and equivalence using SSA transformation, SMT solving, loop unrolling, and CFG visualization.</p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+whoami:
+  name: "Muhammad Awais Rafique"
+  role: "Software Engineer · MERN Stack · AI/ML"
+  location: "Islamabad, Pakistan"
+  education: "BS Software Engineering @ FAST-NUCES (2026)"
+  currently_building:
+    - "DevHex — agentic AI DevOps automation platform"
+    - "Real-time MLOps pipeline for exchange-rate prediction"
+  focus: ["Full-Stack Development", "Agentic AI", "DevOps", "Cloud"]
+  cloud: "AWS Certified Cloud Practitioner ☁️"
+  fun_fact: "Automates the deployment pipelines I used to run by hand"
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="230"/>
+
+</td>
+</tr>
 </table>
-</div>
 
-## 📜 Certifications & Education
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Cloud_Quest-6E48AA?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certification" />
-  <img src="https://img.shields.io/badge/Product_Management-Google_Coursera-774BBE?style=for-the-badge&logo=google&logoColor=white" alt="Google Certification" />
-  <img src="https://img.shields.io/badge/Visual_C++_Programming-Udemy-804FD1?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Certification" />
-  <img src="https://img.shields.io/badge/BS_Software_Engineering-FAST_NUCES_2026-9E6EFE?style=for-the-badge&logo=bookstack&logoColor=white" alt="Education" />
-</div>
-
-<p align="center"><em>Coursework: Requirements Engineering, Software Design & Architecture, DevOps, MLOps, Cloud Computing</em></p>
-
-## 📈 GitHub Contribution Graph
+## 🧬 &nbsp;Tech Constellation
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAwaisRafique&bg_color=0D1117&color=9E6EFE&line=6E48AA&point=9E6EFE&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,html,css&theme=dark" />
+
+<br/><br/>
+
+**MERN & Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux&theme=dark" />
+
+<br/><br/>
+
+**AI / Agentic Systems**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,fastapi&theme=dark" />&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=langchain&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=graphql&logoColor=FF2E92" />
+<img src="https://img.shields.io/badge/MLflow-1C1C1C?style=for-the-badge&logo=mlflow&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Airflow-1C1C1C?style=for-the-badge&logo=apacheairflow&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/DVC-1C1C1C?style=for-the-badge&logo=dvc&logoColor=FF2E92" />
+
+<br/><br/>
+
+**DevOps & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,nginx&theme=dark" />
+
+<br/><br/>
+
+**Databases & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,git,postman,figma&theme=dark" />
+
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+## 🛰️ &nbsp;Mission Log — Professional Experience
+
+<table width="100%">
+<tr><td>
+
+### 🟣 Solution Engineering Intern · <a href="https://www.apimatic.io/">Apimatic.io</a> (NSTP, NUST)
+`Nov 2025 – Feb 2026`
+- Built & deployed API Developer Experience Portals for **JPMorgan, Shell, PayQuicker, PayPal, Vodafone**
+- Automated portal CI/CD via GitHub Actions + Cloudflare; validated SDKs across Java, Python, TypeScript, Go, C#
+- Partnered cross-functionally in Agile/Scrum sprints & code reviews
+
+</td></tr>
+<tr><td>
+
+### 🔵 Full Stack Engineer (MERN) · YourMunshi, Islamabad
+`Aug 2025 – Oct 2025`
+- Shipped full-stack features with React.js, Node.js, Express.js & MongoDB — RESTful API design + integration
+- Built responsive UIs; optimized backend services for performance and scalability
+- Deployed & maintained cloud infrastructure for improved reliability
+
+</td></tr>
+<tr><td>
+
+### 🟢 Software Engineering Intern · Systems Limited, Islamabad
+`Jun 2024 – Aug 2024`
+- Hands-on with .NET applications & API integration in an enterprise environment
+- Application logic + database management across relational and NoSQL systems
+
+</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+## 🚀 &nbsp;Launch Pad — Featured Projects
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9E6EFE&height=120&section=footer" width="100%" />
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 DevHex
+**Agentic AI DevOps Automation Platform** · FYP 2026
+`Python · LangChain · LangGraph · FastAPI · React · Docker · AWS/Azure`
+
+Natural-language CI/CD execution across multi-cloud environments, with real-time VM command execution and intelligent rollback recovery — killing manual deployment bottlenecks.
+
+</td>
+<td width="50%">
+
+### 📈 MLOps Predictive System
+**Real-Time Exchange Rate Prediction** · 2025
+`Python · Airflow · MLflow · DVC · FastAPI · Prometheus · Grafana`
+
+End-to-end automated pipeline with daily live ingestion, fail-fast quality gates, time-series feature engineering, and real-time drift detection + p95 latency alerting.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☸️ Kubernetes MERN Deployment
+`MERN · Kubernetes · Docker · GitHub Actions · Minikube`
+
+Containerized MERN app on a single-node K8s cluster with automated CI/CD and Docker Hub integration for seamless image updates.
+
+</td>
+<td width="50%">
+
+### 🧩 Explain.ai Chrome Extension
+`JavaScript · DOM API · MERN`
+
+Instant hover-explanations for selected text — cut external navigation and lifted productivity by **40%**.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 Internees Management System
+`MERN Stack`
+
+Role-based access control system automating internship applications & approvals with a modern, responsive UI.
+
+</td>
+<td width="50%">
+
+### 🔍 Code Verifier & SMT Visualizer
+`Python · Streamlit · Z3`
+[![Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=streamlit&logoColor=A78BFA)](https://ssa-smt-visuallizer-by-awais.streamlit.app/)
+
+Visual program-correctness checker using SSA transformation, SMT solving, loop unrolling & CFG visualization.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+## 🌌 &nbsp;Orbit — GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MuhammadAwaisRafique&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff2e92&icon_color=00f0ff&text_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAwaisRafique&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff2e92&text_color=ffffff"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAwaisRafique&theme=nightowl&hide_border=true&background=0D1117&stroke=A78BFA&ring=FF2E92&fire=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=FFFFFF" alt="GitHub Streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadAwaisRafique&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="trophies"/>
+
+</div>
+
+### 🧊 3D Contribution Calendar
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/MuhammadAwaisRafique/MuhammadAwaisRafique/output/github-contribution-grid-snake-dark.svg" width="100%" alt="3D contribution animation"/>
+</div>
+
+> 🔧 *Powered by [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — add the workflow below to your repo and this renders as a rotating 3D bar chart of your real commit history.*
+
+<details>
+<summary>⚙️ One-time setup: enable the animated snake + 3D graph (click to expand)</summary>
+
+Create `.github/workflows/profile-3d-contrib.yml` in your `MuhammadAwaisRafique/MuhammadAwaisRafique` repo:
+
+```yaml
+name: 3D Profile Contribution
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: MuhammadAwaisRafique
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          branch: output
+          commit_message: "Update 3D contribution graph"
+          file_pattern: "profile-3d-contrib/*.svg"
+```
+
+And for the **snake animation**, add `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: MuhammadAwaisRafique
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Once these run once, the two image links above will populate automatically. 🎉
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+## 📜 &nbsp;Credentials
+
+<div align="center">
+<img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-1C1C1C?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Product_Management-Google_Coursera-1C1C1C?style=for-the-badge&logo=google&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/Visual_C++-Udemy-1C1C1C?style=for-the-badge&logo=udemy&logoColor=A435F0" />
+<br/>
+<img src="https://img.shields.io/badge/BS_Software_Engineering-FAST_NUCES_2026-1C1C1C?style=for-the-badge&logo=bookstack&logoColor=A78BFA" />
+</div>
+
+<p align="center"><em>Coursework: Requirements Engineering · Software Design & Architecture · DevOps · MLOps · Cloud Computing</em></p>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+<div align="center">
+
+### 📡 Let's Build Something
+
+<a href="mailto:awaiss.rafique@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-00F0FF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/awais12/"><img src="https://img.shields.io/badge/Connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+
 </div>
